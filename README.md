@@ -1,1 +1,1 @@
-# Oh-My-Donut
+# Donut Masterclass project
